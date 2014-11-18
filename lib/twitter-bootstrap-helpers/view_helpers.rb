@@ -2,7 +2,7 @@ module TwitterBootstrapHelpers
   module ViewHelpers
     def icon_for(icon_name, string = '', icon_position = :left)
       icon_name = icon_name.to_s.gsub('_', '-')
-      classes = ["icon-#{icon_name}"]
+      classes = ["fa fa-#{icon_name}"]
       if string.present?
         classes << 'on-left' if icon_position == :left
         classes << 'on-right' if icon_position == :right

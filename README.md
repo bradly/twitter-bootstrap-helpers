@@ -1,6 +1,9 @@
 # Twitter::Bootstrap::Helpers
 
-TODO: Write a gem description
+*THIS GEM HAS BEEN DEPRICATED.*
+
+If you still need similar functionality please checkout this repository:
+https://github.com/Fullscreen/bh
 
 ## Installation
 
@@ -15,10 +18,6 @@ And then execute:
 Or install it yourself as:
 
     $ gem install twitter-bootstrap-helpers
-
-## Usage
-
-TODO: Write usage instructions here
 
 ## Contributing
 
